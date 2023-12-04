@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AUPP-CSA-Python.iml" filepath="$PROJECT_DIR$/.idea/AUPP-CSA-Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weather Forecast.iml" filepath="$PROJECT_DIR$/Weather Forecast.iml" />
     </modules>
   </component>
 </project>
